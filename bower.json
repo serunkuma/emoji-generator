@@ -1,0 +1,21 @@
+{
+  "name": "smiley-generator",
+  "description": "\"Generates smiles from user entry\"",
+  "main": "index.html",
+  "keywords": [
+    "smiley"
+  ],
+  "authors": [
+    "@serunkuma"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

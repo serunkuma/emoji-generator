@@ -1,0 +1,6924 @@
+{
+    "8ball": {
+        "keywords": [
+            "pool",
+            "eight ball",
+            "pocket ball",
+            "cue",
+            "8",
+            "8 ball",
+            "ball",
+            "billiard",
+            "eight",
+            "game",
+            "object",
+            "place",
+            "sport"
+        ],
+        "description": "billiards",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f3b1"
+    },
+    "all_the_things": {
+        "keywords": [
+            "all the things",
+            "everything",
+            "excited",
+            "triumphant",
+            "committed"
+        ],
+        "description": "Cartoon man with broom and fist raised excitedly in the air, with flash of light in background",
+        "headline": "",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "angry": {
+        "keywords": [
+            "livid",
+            "mad",
+            "vexed",
+            "irritated",
+            "annoyed",
+            "frustrated",
+            "person"
+        ],
+        "description": "angry face",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f620"
+    },
+    "ant": {
+        "keywords": [
+            "insect",
+            "queen",
+            "insect",
+            "team",
+            "animal",
+            "nature"
+        ],
+        "description": "ant",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f41c"
+    },
+    "astonished": {
+        "keywords": [
+            "xox",
+            "shocked",
+            "surprise",
+            "person",
+            "totally"
+        ],
+        "description": "astonished face",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f632"
+    },
+    "athletic_shoe": {
+        "keywords": [
+            "sports",
+            "sneaker",
+            "clothing",
+            "object",
+            "person"
+        ],
+        "description": "athletic shoe",
+        "headline": "Athletic Shoe",
+        "apps": [{
+            "name": "location",
+            "query": "athletic shoe",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f45f"
+    },
+    "atm": {
+        "keywords": [
+            "atm",
+            "cash",
+            "withdrawal",
+            "money",
+            "deposit",
+            "financial",
+            "bank",
+            "adam",
+            "payday",
+            "blue-square",
+            "payment",
+            "place",
+            "sign",
+            "symbol"
+        ],
+        "description": "automated teller machine",
+        "headline": "Automated Teller Machine",
+        "apps": [{
+            "name": "location",
+            "query": "ATM",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f3e7"
+    },
+    "baby_chick": {
+        "keywords": [
+            "animal",
+            "chicken",
+            "bird",
+            "young",
+            "woman",
+            "cute",
+            "nature"
+        ],
+        "description": "baby chick",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f424"
+    },
+    "baseball": {
+        "keywords": [
+            "MLB",
+            "ball",
+            "sport",
+            "pitch",
+            "object",
+            "place"
+        ],
+        "description": "baseball",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "26be"
+    },
+    "basketball": {
+        "keywords": [
+            "NBA",
+            "ball",
+            "sport",
+            "bball",
+            "dribble",
+            "net",
+            "swish",
+            "rip city",
+            "court",
+            "object",
+            "place"
+        ],
+        "description": "basketball and hoop",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f3c0"
+    },
+    "basketball_player_tone4": {
+        "keywords": [
+            "sport"
+        ],
+        "description": "person with ball tone 4",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "26f9-1f3fe"
+    },
+    "bear": {
+        "keywords": [
+            "animal",
+            "nature",
+            "grizzly"
+        ],
+        "description": "bear face",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f43b"
+    },
+    "bee": {
+        "keywords": [
+            "insect",
+            "bee",
+            "queen",
+            "buzz",
+            "flower",
+            "pollen",
+            "sting",
+            "honey",
+            "hive",
+            "bumble",
+            "pollination",
+            "animal",
+            "nature"
+        ],
+        "description": "honeybee",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f41d"
+    },
+    "beer": {
+        "keywords": [
+            "beverage",
+            "drink",
+            "drunk",
+            "party",
+            "pub",
+            "relax",
+            "hops",
+            "barley",
+            "malt",
+            "yeast",
+            "portland",
+            "oregon",
+            "brewery",
+            "micro",
+            "pint",
+            "boot",
+            "bar",
+            "nature",
+            "object",
+            "restaurant"
+        ],
+        "description": "beer mug",
+        "headline": "",
+        "apps": [{
+            "name": "location",
+            "query": "beer",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f37a"
+    },
+    "beer_can": {
+        "keywords": [
+            "beer",
+            "can",
+            "tallboy",
+            "aluminum",
+            "pbr",
+            "country"
+        ],
+        "description": "16 ounce beer can also known as \"tallboy\"",
+        "headline": "",
+        "apps": [{
+            "name": "location",
+            "query": "beer",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "beers": {
+        "keywords": [
+            "beverage",
+            "drink",
+            "drunk",
+            "party",
+            "pub",
+            "relax",
+            "cheers",
+            "toast",
+            "celebrate",
+            "bar",
+            "jolly",
+            "hops",
+            "clink",
+            "mug",
+            "nature",
+            "object",
+            "restaurant"
+        ],
+        "description": "clinking beer mugs",
+        "headline": "",
+        "apps": [{
+            "name": "location",
+            "query": "beer",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f37b"
+    },
+    "beetle": {
+        "keywords": [
+            "insect",
+            "nature",
+            "bug",
+            "ladybug",
+            "ladybird",
+            "cow",
+            "lady cow",
+            "endearment",
+            "animal",
+            "lady beetle"
+        ],
+        "description": "lady beetle",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f41e"
+    },
+    "bento": {
+        "keywords": [
+            "food",
+            "japanese",
+            "rice",
+            "meal",
+            "obento",
+            "convenient",
+            "lunchbox",
+            "nature",
+            "object",
+            "restaurant"
+        ],
+        "description": "bento box",
+        "headline": "",
+        "apps": [{
+            "name": "location",
+            "query": "bento OR Japanese restaurant",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f371"
+    },
+    "bernie_sanders": {
+        "keywords": [
+            "bernie",
+            "sanders",
+            "congress",
+            "democrat",
+            "independant"
+        ],
+        "description": "Bernie Sanders in a blue suit with a bird on his finger",
+        "headline": "Bernie Sanders",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "bicyclist": {
+        "keywords": [
+            "bike",
+            "exercise",
+            "hipster",
+            "sport",
+            "road",
+            "pedal",
+            "bicycle",
+            "transportation",
+            "cyclist",
+            "person",
+            "place",
+            "travel"
+        ],
+        "description": "bicyclist",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f6b4"
+    },
+    "bike": {
+        "keywords": [
+            "exercise",
+            "hipster",
+            "sports",
+            "bike",
+            "pedal",
+            "transportation",
+            "place",
+            "sport",
+            "travel",
+            "vehicle"
+        ],
+        "description": "bicycle",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f6b2"
+    },
+    "bird": {
+        "keywords": [
+            "animal",
+            "fly",
+            "nature",
+            "tweet"
+        ],
+        "description": "bird",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f426"
+    },
+    "birthday": {
+        "keywords": [
+            "party",
+            "birth",
+            "dessert",
+            "wish",
+            "celebrate",
+            "celebration",
+            "food",
+            "object",
+            "pastry",
+            "sweet",
+            "event"
+        ],
+        "description": "birthday cake",
+        "headline": "",
+        "apps": [{
+            "name": "location",
+            "query": "bakery",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f382"
+    },
+    "blaming": {
+        "keywords": [
+            "blame",
+            "finger",
+            "pointing",
+            "angry"
+        ],
+        "description": "Boy emoji angrily finger pointing",
+        "headline": "Blaming",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "blossom": {
+        "keywords": [
+            "nature",
+            "yellow",
+            "daisy",
+            "flower",
+            "plant"
+        ],
+        "description": "blossom",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f33c"
+    },
+    "blowfish": {
+        "keywords": [
+            "food",
+            "nature",
+            "pufferfish",
+            "puffer",
+            "ballonfish",
+            "toadfish",
+            "fugu fish",
+            "sushi",
+            "animal",
+            "fish"
+        ],
+        "description": "blowfish",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f421"
+    },
+    "blush": {
+        "keywords": [
+            "crush",
+            "embarrassed",
+            "flushed",
+            "happy",
+            "shy",
+            "smile",
+            "smiley",
+            "blush",
+            "eye",
+            "person"
+        ],
+        "description": "smiling face with smiling eyes",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f60a"
+    },
+    "boar": {
+        "keywords": [
+            "animal",
+            "nature",
+            "pig"
+        ],
+        "description": "boar",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f417"
+    },
+    "boom_word_explosion": {
+        "keywords": [
+            "boom",
+            "bang",
+            "bam",
+            "comic",
+            "explosion"
+        ],
+        "description": "Large bold \"BOOM!\" with comic explosion in background",
+        "headline": "",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "boot": {
+        "keywords": [
+            "fashion",
+            "shoes",
+            "boot",
+            "clothing",
+            "object",
+            "person",
+            "shoe",
+            "woman"
+        ],
+        "description": "womans boots",
+        "headline": "Boots",
+        "apps": [{
+            "name": "location",
+            "query": "boots",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f462"
+    },
+    "bouquet": {
+        "keywords": [
+            "flowers",
+            "nature",
+            "flower",
+            "object",
+            "place",
+            "plant",
+            "romance"
+        ],
+        "description": "bouquet",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f490"
+    },
+    "bowling": {
+        "keywords": [
+            "fun",
+            "play",
+            "sports",
+            "bowl",
+            "ball",
+            "pin",
+            "strike",
+            "spare",
+            "game",
+            "object",
+            "place",
+            "sport"
+        ],
+        "description": "bowling",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f3b3"
+    },
+    "britney_spears": {
+        "keywords": [
+            "britney",
+            "spears",
+            "pigtails",
+            "vocalist",
+            "artist",
+            "female",
+            "blonde",
+            "bows",
+            "girl"
+        ],
+        "description": "US artist Britney Spears with blonde hair in pigtails",
+        "headline": "Britney Spears",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "broken_heart": {
+        "keywords": [
+            "sad",
+            "sorry",
+            "breakup",
+            "split",
+            "break",
+            "emotion",
+            "person"
+        ],
+        "description": "broken heart",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f494"
+    },
+    "bug": {
+        "keywords": [
+            "insect",
+            "nature",
+            "insect",
+            "virus",
+            "error",
+            "animal"
+        ],
+        "description": "bug",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f41b"
+    },
+    "cactus": {
+        "keywords": [
+            "nature",
+            "plant",
+            "vegetable",
+            "desert",
+            "drought",
+            "spike",
+            "poke"
+        ],
+        "description": "cactus",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f335"
+    },
+    "cake": {
+        "keywords": [
+            "desert",
+            "food",
+            "cake",
+            "short",
+            "dessert",
+            "strawberry",
+            "nature",
+            "object",
+            "pastry",
+            "restaurant",
+            "slice",
+            "sweet"
+        ],
+        "description": "shortcake",
+        "headline": "",
+        "apps": [{
+            "name": "location",
+            "query": "bakery",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f370"
+    },
+    "camel": {
+        "keywords": [
+            "animal",
+            "hot",
+            "nature",
+            "hump",
+            "desert",
+            "central asia",
+            "heat",
+            "water",
+            "hump day",
+            "wednesday",
+            "sex"
+        ],
+        "description": "bactrian camel",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f42b"
+    },
+    "camping": {
+        "keywords": [
+            "outdoors",
+            "nature",
+            "wilderness",
+            "roughing",
+            "activity",
+            "place"
+        ],
+        "description": "camping",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f3d5"
+    },
+    "cat": {
+        "keywords": [
+            "animal",
+            "meow",
+            "pet",
+            "kitten",
+            "nature"
+        ],
+        "description": "cat face",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f431"
+    },
+    "cat2": {
+        "keywords": [
+            "animal",
+            "meow",
+            "pet",
+            "kitten",
+            "nature"
+        ],
+        "description": "cat",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f408"
+    },
+    "cat_going_nowhere": {
+        "keywords": [
+            "cat",
+            "stubborn",
+            "leash"
+        ],
+        "description": "Cat on a leash resisting movement",
+        "headline": "Cat Going Nowhere",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "checkered_flag": {
+        "keywords": [
+            "contest",
+            "finishline",
+            "gokart",
+            "checkered",
+            "race",
+            "flag",
+            "finish",
+            "complete",
+            "end",
+            "object",
+            "place",
+            "racing",
+            "sport"
+        ],
+        "description": "chequered flag",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f3c1"
+    },
+    "cherry_blossom": {
+        "keywords": [
+            "flower",
+            "nature",
+            "plant",
+            "tree"
+        ],
+        "description": "cherry blossom",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f338"
+    },
+    "chicken": {
+        "keywords": [
+            "animal",
+            "cluck",
+            "hen",
+            "poultry",
+            "livestock",
+            "nature"
+        ],
+        "description": "chicken",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f414"
+    },
+    "chipmunk": {
+        "keywords": [
+            "animal",
+            "nature"
+        ],
+        "description": "chipmunk",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f43f"
+    },
+    "christmas_tree": {
+        "keywords": [
+            "celebration",
+            "december",
+            "festival",
+            "vacation",
+            "xmas",
+            "santa",
+            "holiday",
+            "winter",
+            "evergreen",
+            "ornaments",
+            "jesus",
+            "gifts",
+            "presents",
+            "activity",
+            "entertainment",
+            "object"
+        ],
+        "description": "christmas tree",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f384"
+    },
+    "circus_tent": {
+        "keywords": [
+            "carnival",
+            "festival",
+            "party",
+            "event",
+            "big",
+            "top",
+            "canvas",
+            "activity",
+            "entertainment",
+            "place"
+        ],
+        "description": "circus tent",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f3aa"
+    },
+    "city_dusk": {
+        "keywords": [
+            "city",
+            "scape",
+            "sunset",
+            "lights",
+            "evening",
+            "metropolitan",
+            "night",
+            "dark",
+            "building",
+            "landscape",
+            "nature",
+            "place",
+            "sun",
+            "time",
+            "weather"
+        ],
+        "description": "cityscape at dusk",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f306"
+    },
+    "city_sunset": {
+        "keywords": [
+            "city",
+            "scape",
+            "light",
+            "metropolitan",
+            "rise",
+            "sun",
+            "dusk",
+            "evening",
+            "building",
+            "nature",
+            "place",
+            "time",
+            "weather"
+        ],
+        "description": "sunset over buildings",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f307"
+    },
+    "clevelandhustles": {
+        "keywords": [
+            "cleveland",
+            "hustles",
+            "hustle",
+            "tv",
+            "entertainment",
+            "lebron"
+        ],
+        "description": "black and white cleveland hustles logo",
+        "headline": "Cleveland Hustles",
+        "apps": [{
+            "name": "secret"
+        }]
+    },
+    "cloud": {
+        "keywords": [
+            "sky",
+            "weather",
+            "overcast",
+            "nature"
+        ],
+        "description": "cloud",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "2601"
+    },
+    "cloud_tornado": {
+        "keywords": [
+            "weather",
+            "destruction",
+            "funnel",
+            "nature"
+        ],
+        "description": "cloud with tornado",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f32a"
+    },
+    "cocktail": {
+        "keywords": [
+            "alcohol",
+            "beverage",
+            "drink",
+            "drunk",
+            "mixed",
+            "martini",
+            "bar",
+            "nature",
+            "object",
+            "restaurant"
+        ],
+        "description": "cocktail glass",
+        "headline": "",
+        "apps": [{
+            "name": "location",
+            "query": "cocktail",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f378"
+    },
+    "coffee": {
+        "keywords": [
+            "beverage",
+            "cafe",
+            "drink",
+            "espresso",
+            "coffee",
+            "nature",
+            "object",
+            "steaming",
+            "tea"
+        ],
+        "description": "hot beverage",
+        "headline": "",
+        "apps": [{
+            "name": "location",
+            "query": "cafe",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "2615"
+    },
+    "coke": {
+        "keywords": [
+            "drink",
+            "beverage",
+            "liquid",
+            "coke",
+            "thirsty",
+            "cheers",
+            "bottles",
+            "share"
+        ],
+        "description": "Have A Coke",
+        "headline": "Coca-Cola",
+        "apps": [{
+            "name": "secret"
+        }]
+    },
+    "confused": {
+        "keywords": [
+            "daze",
+            "perplex",
+            "puzzle",
+            "indifference",
+            "skeptical",
+            "undecided",
+            "uneasy",
+            "hesitant",
+            "person"
+        ],
+        "description": "confused face",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f615"
+    },
+    "cookie": {
+        "keywords": [
+            "chocolate",
+            "food",
+            "oreo",
+            "snack",
+            "dessert",
+            "biscuit",
+            "sweet",
+            "chocolate",
+            "nature",
+            "object",
+            "restaurant"
+        ],
+        "description": "cookie",
+        "headline": "",
+        "apps": [{
+            "name": "location",
+            "query": "bakery",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f36a"
+    },
+    "cow": {
+        "keywords": [
+            "animal",
+            "beef",
+            "ox",
+            "milk",
+            "dairy",
+            "nature"
+        ],
+        "description": "cow face",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f42e"
+    },
+    "cow2": {
+        "keywords": [
+            "animal",
+            "beef",
+            "nature",
+            "ox",
+            "milk",
+            "dairy",
+            "beef",
+            "bessie",
+            "moo"
+        ],
+        "description": "cow",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f404"
+    },
+    "crescent_moon": {
+        "keywords": [
+            "night",
+            "waxing",
+            "sky",
+            "night",
+            "cheese",
+            "phase",
+            "nature",
+            "place",
+            "space",
+            "time",
+            "weather"
+        ],
+        "description": "crescent moon",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f319"
+    },
+    "crocodile": {
+        "keywords": [
+            "animal",
+            "nature",
+            "croc",
+            "alligator",
+            "gator",
+            "cranky"
+        ],
+        "description": "crocodile",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f40a"
+    },
+    "cry": {
+        "keywords": [
+            "sad",
+            "cry",
+            "tear",
+            "weep",
+            "person"
+        ],
+        "description": "crying face",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f622"
+    },
+    "crying_cat_face": {
+        "keywords": [
+            "animal",
+            "cats",
+            "sad",
+            "tears",
+            "weep",
+            "cry",
+            "sob",
+            "tears",
+            "sad",
+            "melancholy",
+            "morn",
+            "somber",
+            "hurt",
+            "nature",
+            "tear"
+        ],
+        "description": "crying cat face",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f63f"
+    },
+    "cupcake": {
+        "keywords": [
+            "food",
+            "cupcake",
+            "cake",
+            "pink frosting",
+            "frosting",
+            "dessert",
+            "sweet",
+            "treat"
+        ],
+        "description": "cupcake with brown bottom, pink icing, and cherry on top",
+        "headline": "Cupcake",
+        "apps": [{
+            "name": "location",
+            "query": "cupcake",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "curry": {
+        "keywords": [
+            "food",
+            "hot",
+            "indian",
+            "spicy",
+            "spice",
+            "flavor",
+            "meal",
+            "nature",
+            "object",
+            "restaurant"
+        ],
+        "description": "curry and rice",
+        "headline": "",
+        "apps": [{
+            "name": "location",
+            "query": "curry restaurant",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f35b"
+    },
+    "custard": {
+        "keywords": [
+            "desert",
+            "food",
+            "cream",
+            "rich",
+            "butter",
+            "dessert",
+            "crÃ¨me",
+            "brÃ»lÃ©e",
+            "french",
+            "nature",
+            "object",
+            "pudding",
+            "restaurant",
+            "sweet"
+        ],
+        "description": "custard",
+        "headline": "",
+        "apps": [{
+            "name": "location",
+            "query": "ice cream",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f36e"
+    },
+    "d_bag": {
+        "keywords": [
+            "d bag",
+            "bag",
+            "jerk",
+            "tool",
+            "schmuck"
+        ],
+        "description": "paper bag with letter D prominently printed on side",
+        "headline": "",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "dancing_beyonce": {
+        "keywords": [
+            "beyonce",
+            "dance",
+            "ring",
+            "proposal",
+            "engagement",
+            "marriage",
+            "commitment",
+            "vocalist",
+            "recording",
+            "artist",
+            "female",
+            "empowerment",
+            "strong",
+            "beautiful",
+            "superstar",
+            "star"
+        ],
+        "description": "Beyonce in her signature black leotard and high heels.",
+        "headline": "Beyonce",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "dart": {
+        "keywords": [
+            "bar",
+            "game",
+            "bullseye",
+            "dart",
+            "archery",
+            "fletching",
+            "arrow",
+            "sport",
+            "activity",
+            "bull",
+            "entertainment",
+            "eye",
+            "object",
+            "target"
+        ],
+        "description": "direct hit",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f3af"
+    },
+    "deciduous_tree": {
+        "keywords": [
+            "nature",
+            "plant",
+            "leaves",
+            "fall",
+            "color",
+            "shedding"
+        ],
+        "description": "deciduous tree",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f333"
+    },
+    "democrat": {
+        "keywords": [
+            "democrat",
+            "liberal",
+            "politics",
+            "president",
+            "obama"
+        ],
+        "description": "democratic donkey logo red white blue",
+        "headline": "The Democratic Party",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "desert": {
+        "keywords": [
+            "hot",
+            "dry",
+            "sandy",
+            "cactus",
+            "sunny",
+            "barren",
+            "nature",
+            "place"
+        ],
+        "description": "desert",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f3dc"
+    },
+    "disappointed": {
+        "keywords": [
+            "disappoint",
+            "frown",
+            "depressed",
+            "discouraged",
+            "sad",
+            "upset",
+            "person"
+        ],
+        "description": "disappointed face",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f61e"
+    },
+    "dog": {
+        "keywords": [
+            "animal",
+            "friend",
+            "nature",
+            "pet",
+            "puppy",
+            "woof",
+            "bark",
+            "fido"
+        ],
+        "description": "dog face",
+        "headline": "",
+        "apps": [{
+            "name": "location",
+            "query": "pet and store ",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f436"
+    },
+    "dog2": {
+        "keywords": [
+            "animal",
+            "friend",
+            "nature",
+            "pet",
+            "puppy",
+            "woof",
+            "bark",
+            "fido"
+        ],
+        "description": "dog",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f415"
+    },
+    "doge": {
+        "keywords": [
+            "doge",
+            "dog",
+            "shiba inu",
+            "meme"
+        ],
+        "description": "Portrait of the Shiba Inu popular from the Doge memes",
+        "headline": "Doge",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "dolphin": {
+        "keywords": [
+            "animal",
+            "fins",
+            "fish",
+            "flipper",
+            "nature",
+            "ocean",
+            "sea"
+        ],
+        "description": "dolphin",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f42c"
+    },
+    "donaldtrump": {
+        "keywords": [
+            "president",
+            "candidate",
+            "trump",
+            "business",
+            "republican",
+            "hair",
+            "real estate"
+        ],
+        "description": "Donald Trump with OK fingers.",
+        "headline": "Donald Trump",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "doughnut": {
+        "keywords": [
+            "desert",
+            "food",
+            "snack",
+            "sweet",
+            "donut",
+            "pastry",
+            "fried",
+            "dessert",
+            "breakfast",
+            "police",
+            "homer",
+            "sweet",
+            "nature",
+            "object",
+            "restaurant"
+        ],
+        "description": "doughnut",
+        "headline": "",
+        "apps": [{
+            "name": "location",
+            "query": "doughnut",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f369"
+    },
+    "dove": {
+        "keywords": [
+            "symbol",
+            "bird",
+            "animal",
+            "fly",
+            "nature"
+        ],
+        "description": "dove of peace",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f54a"
+    },
+    "dragon": {
+        "keywords": [
+            "chinese",
+            "green",
+            "myth",
+            "nature",
+            "dragon",
+            "fire",
+            "legendary",
+            "myth",
+            "animal",
+            "fairy tale"
+        ],
+        "description": "dragon",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f409"
+    },
+    "dragon_face": {
+        "keywords": [
+            "chinese",
+            "green",
+            "myth",
+            "nature",
+            "dragon",
+            "head",
+            "fire",
+            "legendary",
+            "myth",
+            "animal",
+            "fairy tale"
+        ],
+        "description": "dragon face",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f432"
+    },
+    "dress": {
+        "keywords": [
+            "clothes",
+            "fashion",
+            "clothing",
+            "object",
+            "person"
+        ],
+        "description": "dress",
+        "headline": "Dress",
+        "apps": [{
+            "name": "location",
+            "query": "womans dress",
+            "icon": "map_icon",
+            "title": "Maps"
+        }],
+        "unicode": "1f457"
+    },
+    "dromedary_camel": {
+        "keywords": [
+            "animal",
+            "desert",
+            "hot",
+            "hump",
+            "middle east",
+            "heat",
+            "water",
+            "hump day",
+            "wednesday",
+            "sex",
+            "nature"
+        ],
+        "description": "dromedary camel",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f42a"
+    },
+    "droplet": {
+        "keywords": [
+            "drip",
+            "faucet",
+            "water",
+            "drop",
+            "h20",
+            "aqua",
+            "tear",
+            "sweat",
+            "rain",
+            "moisture",
+            "wet",
+            "moist",
+            "spit",
+            "cold",
+            "comic",
+            "emotion",
+            "nature",
+            "object",
+            "person",
+            "weather"
+        ],
+        "description": "droplet",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f4a7"
+    },
+    "ducks_in_a_row": {
+        "keywords": [
+            "duck",
+            "organized",
+            "planned",
+            "straight",
+            "capable",
+            "prepared"
+        ],
+        "description": "Three ducks in a line",
+        "headline": "",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "ear_of_rice": {
+        "keywords": [
+            "nature",
+            "plant",
+            "food",
+            "seed"
+        ],
+        "description": "ear of rice",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f33e"
+    },
+    "earth_americas": {
+        "keywords": [
+            "USA",
+            "globe",
+            "international",
+            "world",
+            "space",
+            "planet",
+            "north",
+            "south",
+            "nature",
+            "place"
+        ],
+        "description": "earth globe americas",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f30e"
+    },
+    "egg": {
+        "keywords": [
+            "breakfast",
+            "food",
+            "egg",
+            "fry",
+            "pan",
+            "flat",
+            "cook",
+            "frying",
+            "utensil",
+            "nature",
+            "object",
+            "restaurant"
+        ],
+        "description": "cooking",
+        "headline": "",
+        "apps": [{
+            "name": "location",
+            "query": "eggs OR breakfast restaurant",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f95a"
+    },
+    "electrocution": {
+        "keywords": [
+            "electric",
+            "electricity",
+            "light socket",
+            "electrical",
+            "outlet",
+            "zap",
+            "ouch",
+            "burn",
+            "death",
+            "pain"
+        ],
+        "description": "emojis sticking finger into electric socket and getting shocked",
+        "headline": "Electrocution",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "elephant": {
+        "keywords": [
+            "animal",
+            "nature",
+            "nose",
+            "thailand"
+        ],
+        "description": "elephant",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f418"
+    },
+    "elton_john": {
+        "keywords": [
+            "sir",
+            "elton",
+            "john",
+            "english",
+            "star",
+            "pop",
+            "hits",
+            "vocalist",
+            "pianist",
+            "music",
+            "artist"
+        ],
+        "description": "sir elton john showing his rose glasses",
+        "headline": "Elton John",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "evergreen_tree": {
+        "keywords": [
+            "nature",
+            "plant",
+            "needles",
+            "christmas"
+        ],
+        "description": "evergreen tree",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f332"
+    },
+    "exaggerated_wink": {
+        "keywords": [
+            "wink",
+            "joking",
+            "playful",
+            "sarcasm",
+            "exaggerated"
+        ],
+        "description": "Face scrunched up and contorted in an exaggerated wink.",
+        "headline": "Exaggerated Wink",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "fallen_leaf": {
+        "keywords": [
+            "leaves",
+            "nature",
+            "plant",
+            "vegetable",
+            "fall",
+            "color",
+            "deciduous",
+            "autumn",
+            "falling"
+        ],
+        "description": "fallen leaf",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f342"
+    },
+    "feet": {
+        "keywords": [
+            "animal",
+            "pet",
+            "tracking",
+            "mark",
+            "imprints",
+            "footsteps",
+            "lion",
+            "bear",
+            "dog",
+            "cat",
+            "raccoon",
+            "critter",
+            "feet",
+            "nature",
+            "print"
+        ],
+        "description": "paw prints",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f43e"
+    },
+    "feminist": {
+        "keywords": [
+            "ombre",
+            "girl",
+            "power",
+            "sunglasses",
+            "fist",
+            "pump",
+            "arm raised",
+            "mouth",
+            "female",
+            "feminist",
+            "woman",
+            "women",
+            "rights",
+            "preach",
+            "people"
+        ],
+        "description": "Blonde girl with glasses and ombre hair holds left arm up in a fist",
+        "headline": "The Feminist Emoji",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "fibbing": {
+        "keywords": [
+            "fibbing",
+            "lying",
+            "dishonest",
+            "joking"
+        ],
+        "description": "Face with awkward grin and crossed fingers behind back",
+        "headline": "",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "firefighter": {
+        "keywords": [
+            "fire",
+            "fighter",
+            "hero",
+            "service",
+            "hot"
+        ],
+        "description": "firefighter with red hat",
+        "headline": "Firefighter",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "first_quarter_moon_with_face": {
+        "keywords": [
+            "nature",
+            "anthropomorphic",
+            "sky",
+            "night",
+            "cheese",
+            "phase",
+            "crescent",
+            "place",
+            "space",
+            "weather"
+        ],
+        "description": "first quarter moon with face",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f31b"
+    },
+    "fish": {
+        "keywords": [
+            "animal",
+            "food",
+            "nature",
+            "pisces",
+            "zodiac"
+        ],
+        "description": "fish",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f41f"
+    },
+    "fishing_pole_and_fish": {
+        "keywords": [
+            "hobby",
+            "rod",
+            "reel",
+            "entertainment",
+            "object",
+            "place",
+            "sport"
+        ],
+        "description": "fishing pole and fish",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f3a3"
+    },
+    "fist": {
+        "keywords": [
+            "fingers",
+            "grasp",
+            "hand",
+            "body",
+            "clenched",
+            "person",
+            "punch"
+        ],
+        "description": "raised fist",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "270a"
+    },
+    "flushed": {
+        "keywords": [
+            "blush",
+            "flattered",
+            "flush",
+            "blush",
+            "red",
+            "pink",
+            "cheeks",
+            "shy",
+            "dazed",
+            "person"
+        ],
+        "description": "flushed face",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f633"
+    },
+    "fog": {
+        "keywords": [
+            "weather",
+            "damp",
+            "cloud",
+            "hazy",
+            "nature"
+        ],
+        "description": "fog",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f32b"
+    },
+    "foggy": {
+        "keywords": [
+            "mountain",
+            "bridge",
+            "weather",
+            "fog",
+            "nature",
+            "place"
+        ],
+        "description": "foggy",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f301"
+    },
+    "football": {
+        "keywords": [
+            "NFL",
+            "sport",
+            "ball",
+            "america",
+            "object",
+            "place"
+        ],
+        "description": "american football",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f3c8"
+    },
+    "fork_and_knife": {
+        "keywords": [
+            "cutlery",
+            "kitchen",
+            "restaurant",
+            "meal",
+            "food",
+            "eat",
+            "utensils",
+            "cooking",
+            "nature",
+            "object"
+        ],
+        "description": "fork and knife",
+        "headline": "",
+        "apps": [{
+            "name": "location",
+            "query": "restaurant",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f374"
+    },
+    "four_leaf_clover": {
+        "keywords": [
+            "lucky",
+            "nature",
+            "plant",
+            "luck",
+            "irish",
+            "saint",
+            "patrick",
+            "green",
+            "4"
+        ],
+        "description": "four leaf clover",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f340"
+    },
+    "frappucino": {
+        "keywords": [
+            "coffee",
+            "frappuccino",
+            "frozen",
+            "blended",
+            "drink"
+        ],
+        "description": "plastic coffee cup with straw and green circle",
+        "headline": "Frappucino",
+        "apps": [{
+            "name": "location",
+            "query": "coffee",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "freakout_cat": {
+        "keywords": [
+            "cat",
+            "freakout",
+            "panic",
+            "wild",
+            "excited",
+            "scared"
+        ],
+        "description": "Cat with large panicked eyes",
+        "headline": "Freakout Cat",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "fried_shrimp": {
+        "keywords": [
+            "animal",
+            "food",
+            "seafood",
+            "small",
+            "fish",
+            "nature",
+            "object",
+            "prawn",
+            "restaurant",
+            "tempura"
+        ],
+        "description": "fried shrimp",
+        "headline": "",
+        "apps": [{
+            "name": "location",
+            "query": "seafood OR shrimp restaurant",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f364"
+    },
+    "fries": {
+        "keywords": [
+            "chips",
+            "food",
+            "potato",
+            "fry",
+            "russet",
+            "idaho",
+            "nature",
+            "object",
+            "restaurant"
+        ],
+        "description": "french fries",
+        "headline": "",
+        "apps": [{
+            "name": "location",
+            "query": "fries restaurant",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f35f"
+    },
+    "frog": {
+        "keywords": [
+            "animal",
+            "nature"
+        ],
+        "description": "frog face",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f438"
+    },
+    "frowning": {
+        "keywords": [
+            "aw",
+            "frown",
+            "sad",
+            "pout",
+            "sulk",
+            "glower",
+            "person"
+        ],
+        "description": "frowning face with open mouth",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f626"
+    },
+    "full_moon_with_face": {
+        "keywords": [
+            "night",
+            "anthropomorphic",
+            "sky",
+            "night",
+            "cheese",
+            "phase",
+            "spooky",
+            "werewolves",
+            "bright",
+            "nature",
+            "place",
+            "space",
+            "weather"
+        ],
+        "description": "full moon with face",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f31d"
+    },
+    "ghost": {
+        "keywords": [
+            "halloween",
+            "creature",
+            "face",
+            "fairy tale",
+            "fantasy",
+            "monster",
+            "person"
+        ],
+        "description": "ghost",
+        "headline": "Ghost",
+        "apps": [{
+            "name": "location",
+            "query": "costumes",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f47b"
+    },
+    "gift": {
+        "keywords": [
+            "birthday",
+            "christmas",
+            "xmas",
+            "gift",
+            "package",
+            "wedding",
+            "box",
+            "celebration",
+            "entertainment",
+            "object"
+        ],
+        "description": "wrapped present",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f381"
+    },
+    "goat": {
+        "keywords": [
+            "animal",
+            "nature",
+            "kid",
+            "billy",
+            "livestock",
+            "capricorn",
+            "zodiac"
+        ],
+        "description": "goat",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f410"
+    },
+    "golf": {
+        "keywords": [
+            "business",
+            "sport",
+            "golf",
+            "object",
+            "place",
+            "travel"
+        ],
+        "description": "flag in hole",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "26f3"
+    },
+    "golfer": {
+        "keywords": [
+            "sport",
+            "par",
+            "birdie",
+            "eagle",
+            "mulligan",
+            "ball",
+            "golf",
+            "person"
+        ],
+        "description": "golfer",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f3cc"
+    },
+    "hair_of_the_dog": {
+        "keywords": [
+            "alcoholism",
+            "hangover",
+            "alcohol",
+            "drinks",
+            "tequila sunrise",
+            "bloody mary",
+            "cocktail",
+            "brunch"
+        ],
+        "description": "Dog with sunglasses drinking a red beverage through a straw.",
+        "headline": "Hair of the Dog",
+        "apps": [{
+            "name": "location",
+            "query": "brunch",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "haircut": {
+        "keywords": [
+            "female",
+            "girl",
+            "woman",
+            "barber",
+            "beauty",
+            "parlor",
+            "person"
+        ],
+        "description": "haircut",
+        "headline": "Haircut",
+        "apps": [{
+            "name": "location",
+            "query": "salon",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f487"
+    },
+    "hamburger": {
+        "keywords": [
+            "food",
+            "meat",
+            "burger",
+            "cow",
+            "beef",
+            "angus",
+            "nature",
+            "object",
+            "restaurant"
+        ],
+        "description": "hamburger",
+        "headline": "",
+        "apps": [{
+            "name": "location",
+            "query": "burger restaurant",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f354"
+    },
+    "hamster": {
+        "keywords": [
+            "animal",
+            "nature",
+            "rodent",
+            "pet"
+        ],
+        "description": "hamster face",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f439"
+    },
+    "hand_splayed": {
+        "keywords": [
+            "hi",
+            "five",
+            "stop",
+            "halt",
+            "body",
+            "finger",
+            "person"
+        ],
+        "description": "raised hand with fingers splayed",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f590"
+    },
+    "hatched_chick": {
+        "keywords": [
+            "baby",
+            "chicken",
+            "chick",
+            "baby",
+            "bird",
+            "chicken",
+            "young",
+            "woman",
+            "cute",
+            "animal",
+            "nature"
+        ],
+        "description": "front-facing baby chick",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f425"
+    },
+    "hatching_chick": {
+        "keywords": [
+            "born",
+            "chicken",
+            "egg",
+            "baby",
+            "bird",
+            "chicken",
+            "young",
+            "woman",
+            "cute",
+            "animal",
+            "nature"
+        ],
+        "description": "hatching chick",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f423"
+    },
+    "hear_no_evil": {
+        "keywords": [
+            "animal",
+            "ears",
+            "hear",
+            "sound",
+            "kikazaru",
+            "evil",
+            "face",
+            "forbidden",
+            "gesture",
+            "nature",
+            "no",
+            "not",
+            "prohibited"
+        ],
+        "description": "hear-no-evil monkey",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f649"
+    },
+    "heart": {
+        "keywords": [
+            "like",
+            "love",
+            "red",
+            "pink",
+            "passion",
+            "romance",
+            "intense",
+            "desire",
+            "death",
+            "evil",
+            "cold",
+            "valentines",
+            "emotion",
+            "person"
+        ],
+        "description": "heavy black heart",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "2764"
+    },
+    "heart_eyes": {
+        "keywords": [
+            "affection",
+            "crush",
+            "infatuation",
+            "like",
+            "valentines",
+            "heart",
+            "lovestruck",
+            "love",
+            "flirt",
+            "smile",
+            "eye",
+            "person"
+        ],
+        "description": "smiling face with heart-shaped eyes",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f60d"
+    },
+    "heart_eyes_cat": {
+        "keywords": [
+            "affection",
+            "animal",
+            "cats",
+            "like",
+            "love",
+            "valentines",
+            "lovestruck",
+            "love",
+            "heart",
+            "eye",
+            "nature",
+            "smile"
+        ],
+        "description": "smiling cat face with heart-shaped eyes",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f63b"
+    },
+    "herb": {
+        "keywords": [
+            "grass",
+            "lawn",
+            "medicine",
+            "plant",
+            "vegetable",
+            "weed",
+            "spice",
+            "plant",
+            "cook",
+            "cooking",
+            "leaf",
+            "nature"
+        ],
+        "description": "herb",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f33f"
+    },
+    "hibiscus": {
+        "keywords": [
+            "plant",
+            "hibiscus",
+            "flower",
+            "warm",
+            "nature"
+        ],
+        "description": "hibiscus",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f33a"
+    },
+    "high_five": {
+        "keywords": [
+            "high five",
+            "triumph",
+            "success",
+            "friendship",
+            "teamwork"
+        ],
+        "description": "Two hands high-fiving in mid-air.",
+        "headline": "High Five",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "high_heel": {
+        "keywords": [
+            "fashion",
+            "female",
+            "shoes",
+            "clothing",
+            "heel",
+            "object",
+            "person",
+            "woman"
+        ],
+        "description": "high-heeled shoe",
+        "headline": "High Heels",
+        "apps": [{
+            "name": "location",
+            "query": "shoes",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f460"
+    },
+    "hillaryclinton": {
+        "keywords": [
+            "Hillary",
+            "Clinton",
+            "president",
+            "nominee",
+            "United States",
+            "female",
+            "glasses",
+            "sunglasses",
+            "business",
+            "women",
+            "pantsuit"
+        ],
+        "description": "Hillary Clinton with sunglasses.",
+        "headline": "Hillary Clinton",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "horse": {
+        "keywords": [
+            "animal",
+            "powerful",
+            "draft",
+            "colt",
+            "filly",
+            "mare",
+            "stallion",
+            "gelding",
+            "yearling",
+            "thoroughbred",
+            "pony",
+            "nature"
+        ],
+        "description": "horse face",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f434"
+    },
+    "horse_racing": {
+        "keywords": [
+            "animal",
+            "betting",
+            "competition",
+            "race",
+            "jockey",
+            "triple crown",
+            "person",
+            "racehorse",
+            "sport",
+            "travel"
+        ],
+        "description": "horse racing",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f3c7"
+    },
+    "horse_racing_tone4": {
+        "keywords": [
+            "animal",
+            "betting",
+            "competition",
+            "race",
+            "jockey",
+            "triple crown"
+        ],
+        "description": "horse racing tone 4",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f3c7-1f3fe"
+    },
+    "hungover": {
+        "keywords": [
+            "sweating booze",
+            "slobbering",
+            "hungover",
+            "disoriented",
+            "smelly",
+            "beer",
+            "wine",
+            "liquor",
+            "alcoholic",
+            "anxious",
+            ""
+        ],
+        "description": "sunglasses with drool",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "hushed": {
+        "keywords": [
+            "woo",
+            "quiet",
+            "hush",
+            "whisper",
+            "silent",
+            "person",
+            "stunned",
+            "surprised"
+        ],
+        "description": "hushed face",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f62f"
+    },
+    "ice_cream": {
+        "keywords": [
+            "desert",
+            "food",
+            "icecream",
+            "dairy",
+            "dessert",
+            "cold",
+            "soft",
+            "serve",
+            "cone",
+            "waffle",
+            "nature",
+            "object",
+            "restaurant",
+            "sweet"
+        ],
+        "description": "ice cream",
+        "headline": "",
+        "apps": [{
+            "name": "location",
+            "query": "ice cream",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f368"
+    },
+    "ice_skate": {
+        "keywords": [
+            "place",
+            "sport",
+            "travel"
+        ],
+        "description": "ice skate",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "26f8"
+    },
+    "icecream": {
+        "keywords": [
+            "desert",
+            "food",
+            "icecream",
+            "dairy",
+            "dessert",
+            "cold",
+            "serve",
+            "cone",
+            "yogurt",
+            "nature",
+            "object",
+            "restaurant",
+            "sweet"
+        ],
+        "description": "soft ice cream",
+        "headline": "Ice Cream",
+        "apps": [{
+            "name": "location",
+            "query": "ice and cream",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f366"
+    },
+    "jack_o_lantern": {
+        "keywords": [
+            "halloween",
+            "pumpkin",
+            "holiday",
+            "carve",
+            "autumn",
+            "fall",
+            "october",
+            "saints",
+            "costume",
+            "spooky",
+            "horror",
+            "scary",
+            "scared",
+            "dead",
+            "activity",
+            "celebration",
+            "entertainment",
+            "jack",
+            "lantern",
+            "object"
+        ],
+        "description": "jack-o-lantern",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f383"
+    },
+    "jay_z": {
+        "keywords": [
+            "recording",
+            "artist",
+            "chain",
+            "hat",
+            "rapper",
+            "vocal",
+            "successful",
+            "hip hop",
+            "music",
+            "rap",
+            "beyonce"
+        ],
+        "description": "Recording artist Jay Z  with New York hat and chain.",
+        "headline": "Jay Z",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "jeans": {
+        "keywords": [
+            "fashion",
+            "shopping",
+            "pants",
+            "blue",
+            "denim",
+            "levi&#039;s",
+            "levi",
+            "designer",
+            "work",
+            "skinny",
+            "clothing",
+            "object",
+            "person",
+            "trousers"
+        ],
+        "description": "jeans",
+        "headline": "Blue Jeans",
+        "apps": [{
+            "name": "location",
+            "query": "jeans",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f456"
+    },
+    "jeep": {
+        "keywords": [
+            "jeep",
+            "off road",
+            "4x4",
+            "vehicle",
+            "driving",
+            "car",
+            "mud"
+        ],
+        "description": "Short wheelbase 4x4 offroad motor vehicle",
+        "headline": "",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "john_legend": {
+        "keywords": [
+            "john",
+            "legend",
+            "vocalist",
+            "grammy",
+            "award",
+            "songwriter",
+            "music",
+            "star",
+            "popular"
+        ],
+        "description": "vocalist john legend in a tuxedo",
+        "headline": "John Legend",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "joy": {
+        "keywords": [
+            "cry",
+            "haha",
+            "happy",
+            "weep",
+            "person",
+            "tear"
+        ],
+        "description": "face with tears of joy",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f602"
+    },
+    "joy_cat": {
+        "keywords": [
+            "animal",
+            "cats",
+            "haha",
+            "happy",
+            "tears",
+            "happy",
+            "tears",
+            "cry",
+            "joy",
+            "nature",
+            "tear"
+        ],
+        "description": "cat face with tears of joy",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f639"
+    },
+    "kale": {
+        "keywords": [
+            "kale",
+            "vegetable",
+            "healthy",
+            "vegetarian"
+        ],
+        "description": "leaf of green kale",
+        "headline": "Kale",
+        "apps": [{
+            "name": "location",
+            "query": "vegetarian and restaurant",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "kiss": {
+        "keywords": [
+            "affection",
+            "face",
+            "like",
+            "lips",
+            "love",
+            "valentines",
+            "emotion",
+            "heart",
+            "person",
+            "romance"
+        ],
+        "description": "kiss mark",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f48b"
+    },
+    "kissing_cat": {
+        "keywords": [
+            "animal",
+            "cats",
+            "passion",
+            "kiss",
+            "puckered",
+            "heart",
+            "love",
+            "eye",
+            "nature"
+        ],
+        "description": "kissing cat face with closed eyes",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f63d"
+    },
+    "kissing_heart": {
+        "keywords": [
+            "affection",
+            "infatuation",
+            "blowing kiss",
+            "heart",
+            "lips",
+            "like",
+            "love",
+            "valentines",
+            "person"
+        ],
+        "description": "face throwing a kiss",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f618"
+    },
+    "koala": {
+        "keywords": [
+            "animal",
+            "nature",
+            "bear"
+        ],
+        "description": "koala",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f428"
+    },
+    "last_quarter_moon": {
+        "keywords": [
+            "nature",
+            "sky",
+            "night",
+            "cheese",
+            "phase",
+            "place",
+            "space",
+            "time",
+            "weather"
+        ],
+        "description": "last quarter moon symbol",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f317"
+    },
+    "last_quarter_moon_with_face": {
+        "keywords": [
+            "nature",
+            "anthropomorphic",
+            "sky",
+            "night",
+            "cheese",
+            "phase",
+            "crescent",
+            "place",
+            "space",
+            "weather"
+        ],
+        "description": "last quarter moon with face",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f31c"
+    },
+    "leaves": {
+        "keywords": [
+            "nature",
+            "plant",
+            "tree",
+            "vegetable",
+            "leaves",
+            "float",
+            "deciduous",
+            "blow",
+            "flutter"
+        ],
+        "description": "leaf fluttering in wind",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f343"
+    },
+    "leopard": {
+        "keywords": [
+            "animal",
+            "nature",
+            "cat",
+            "spot",
+            "spotted",
+            "sexy"
+        ],
+        "description": "leopard",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f406"
+    },
+    "lifter": {
+        "keywords": [
+            "bench",
+            "press",
+            "squats",
+            "deadlift",
+            "person",
+            "sport"
+        ],
+        "description": "weight lifter",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f3cb"
+    },
+    "madonna": {
+        "keywords": [
+            "madonna",
+            "music",
+            "pop",
+            "vocalist",
+            "mtv",
+            "recording",
+            "artist",
+            "reinvent",
+            "female",
+            "woman",
+            "star",
+            "singer",
+            "songwriter",
+            "dancer"
+        ],
+        "description": "madonna with pink bow in her hair and cross earring",
+        "headline": "Madonna",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "make_it_rain": {
+        "keywords": [
+            "rain",
+            "dollars",
+            "pimp",
+            "rich",
+            "money",
+            "bills",
+            "slang"
+        ],
+        "description": "guy with sunglasses throwing money in the air",
+        "headline": "Make It Rain",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "maple_leaf": {
+        "keywords": [
+            "canada",
+            "nature",
+            "plant",
+            "syrup",
+            "tree",
+            "falling"
+        ],
+        "description": "maple leaf",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f341"
+    },
+    "mark_cuban": {
+        "keywords": [
+            "mark",
+            "cuban",
+            "business",
+            "shark",
+            "mavericks",
+            "dallas",
+            "investor"
+        ],
+        "description": "mark cuban in dallas mavericks tee with cigar",
+        "headline": "Mark Cuban",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "massage_tone1": {
+        "keywords": [
+            "female",
+            "girl",
+            "woman"
+        ],
+        "description": "face massage tone 1",
+        "headline": "",
+        "apps": [{
+            "name": "location",
+            "query": "massage",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f486-1f3fb"
+    },
+    "medal": {
+        "keywords": [
+            "award",
+            "ceremony",
+            "contest",
+            "ftw",
+            "place",
+            "win",
+            "first",
+            "show",
+            "reward",
+            "achievement",
+            "object",
+            "sport"
+        ],
+        "description": "sports medal",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f3c5"
+    },
+    "metal": {
+        "keywords": [
+            "band",
+            "concert",
+            "fingers",
+            "rocknroll"
+        ],
+        "description": "sign of the horns",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f918"
+    },
+    "mic_drop": {
+        "keywords": [
+            "microphone",
+            "drop",
+            "dropped",
+            "impressive",
+            "meme",
+            "debate",
+            "rap"
+        ],
+        "description": "hand dropping a microphone",
+        "headline": "Drop the Mic",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "middle_finger": {
+        "keywords": [
+            "fu",
+            "body",
+            "middle finger",
+            "person"
+        ],
+        "description": "reversed hand with middle finger extended",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f595"
+    },
+    "milky_way": {
+        "keywords": [
+            "outer",
+            "space",
+            "galaxy",
+            "stars",
+            "planets",
+            "sky",
+            "milky way",
+            "nature",
+            "place",
+            "weather"
+        ],
+        "description": "milky way",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f30c"
+    },
+    "mj": {
+        "keywords": [
+            "michael",
+            "jackson",
+            "brown",
+            "black",
+            "red outfit",
+            "bangs",
+            "pop",
+            "singer",
+            "artist",
+            "vocalist"
+        ],
+        "description": "Micheal Jackson with curly bangs and red outfit.",
+        "headline": "Michael Jackson",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "monkey": {
+        "keywords": [
+            "animal",
+            "nature",
+            "primate",
+            "banana",
+            "silly"
+        ],
+        "description": "monkey",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f412"
+    },
+    "monkey_face": {
+        "keywords": [
+            "animal",
+            "nature"
+        ],
+        "description": "monkey face",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f435"
+    },
+    "motorcycle": {
+        "keywords": [
+            "bike",
+            "speed",
+            "person",
+            "sport",
+            "travel"
+        ],
+        "description": "racing motorcycle",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f3cd"
+    },
+    "mount_fuji": {
+        "keywords": [
+            "japan",
+            "mountain",
+            "nature",
+            "peak",
+            "place"
+        ],
+        "description": "mount fuji",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f5fb"
+    },
+    "mountain_bicyclist_tone5": {
+        "keywords": [
+            "sport",
+            "transportation",
+            "bike",
+            "pedal",
+            "bicycle",
+            "transportation"
+        ],
+        "description": "mountain bicyclist tone 5",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f6b5-1f3ff"
+    },
+    "mountain_snow": {
+        "keywords": [
+            "cold",
+            "elevation",
+            "hiking",
+            "peak",
+            "nature",
+            "place"
+        ],
+        "description": "snow capped mountain",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f3d4"
+    },
+    "mouse": {
+        "keywords": [
+            "animal",
+            "nature",
+            "rodent"
+        ],
+        "description": "mouse face",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f42d"
+    },
+    "mouse2": {
+        "keywords": [
+            "animal",
+            "nature",
+            "mice",
+            "rodent"
+        ],
+        "description": "mouse",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f401"
+    },
+    "muscle": {
+        "keywords": [
+            "arm",
+            "flex",
+            "hand",
+            "strong",
+            "muscle",
+            "bicep",
+            "body",
+            "comic",
+            "person"
+        ],
+        "description": "flexed biceps",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f4aa"
+    },
+    "mushroom": {
+        "keywords": [
+            "plant",
+            "vegetable",
+            "fungi",
+            "food",
+            "fungus",
+            "shroom",
+            "nature"
+        ],
+        "description": "mushroom",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f344"
+    },
+    "mustache": {
+        "keywords": [
+            "mustache",
+            "facial hair",
+            "man"
+        ],
+        "description": "Smiling face with large thick mustache",
+        "headline": "",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "nail_care": {
+        "keywords": [
+            "beauty",
+            "manicure",
+            "body",
+            "care",
+            "cosmetics",
+            "person"
+        ],
+        "description": "Fingernails getting polished.",
+        "headline": "Manicure",
+        "apps": [{
+            "name": "location",
+            "query": "manicure",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f485"
+    },
+    "necktie": {
+        "keywords": [
+            "clothes",
+            "fashion",
+            "formal",
+            "shirt",
+            "tie",
+            "clothing",
+            "object",
+            "person"
+        ],
+        "description": "necktie",
+        "headline": "Mens Clothes",
+        "apps": [{
+            "name": "location",
+            "query": "mens clothes",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f454"
+    },
+    "new_moon_with_face": {
+        "keywords": [
+            "nature",
+            "anthropomorphic",
+            "sky",
+            "night",
+            "cheese",
+            "phase",
+            "place",
+            "space",
+            "time",
+            "weather"
+        ],
+        "description": "new moon with face",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f31a"
+    },
+    "night_with_stars": {
+        "keywords": [
+            "cloudless",
+            "evening",
+            "planets",
+            "space",
+            "sky",
+            "nature",
+            "place",
+            "star",
+            "weather"
+        ],
+        "description": "night with stars",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f303"
+    },
+    "ninja": {
+        "keywords": [
+            "ninja",
+            "fight",
+            "japan",
+            "warrior",
+            "agent",
+            "mercenary"
+        ],
+        "description": "ninja with sword",
+        "headline": "Ninja",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "ocean": {
+        "keywords": [
+            "sea",
+            "ocean",
+            "surf",
+            "beach",
+            "tide",
+            "nature",
+            "place",
+            "weather"
+        ],
+        "description": "water wave",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f30a"
+    },
+    "octopus": {
+        "keywords": [
+            "animal",
+            "creature",
+            "ocean",
+            "sea",
+            "nature"
+        ],
+        "description": "octopus",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f419"
+    },
+    "ok_hand": {
+        "keywords": [
+            "fingers",
+            "limbs",
+            "perfect",
+            "okay",
+            "smoke",
+            "smoking",
+            "marijuana",
+            "joint",
+            "pot",
+            "420",
+            "body",
+            "person"
+        ],
+        "description": "ok hand sign",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f44c"
+    },
+    "open_hands_tone5": {
+        "keywords": [
+            "butterfly",
+            "fingers"
+        ],
+        "description": "open hands sign tone 5",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f450-1f3ff"
+    },
+    "orangetheory": {
+        "keywords": [
+            "fitness",
+            "orange",
+            "splat",
+            "gym",
+            "muscles",
+            "weight",
+            "skinny"
+        ],
+        "description": "Orangetheory Splat Logo",
+        "headline": "Orangetheory Fitness",
+        "apps": [{
+            "name": "location",
+            "query": "OrangeTheory and Fitness"
+        }]
+    },
+    "ox": {
+        "keywords": [
+            "animal",
+            "beef",
+            "cow",
+            "bull",
+            "nature",
+            "taurus",
+            "zodiac"
+        ],
+        "description": "ox",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f402"
+    },
+    "pacifier": {
+        "keywords": [
+            "pacifier",
+            "baby",
+            "crying",
+            "screaming",
+            "tantrum"
+        ],
+        "description": "Rubber pacifier as used by babies to control crying.",
+        "headline": "Pacifier",
+        "apps": [{
+            "name": "location",
+            "query": "baby and store",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "palm_tree": {
+        "keywords": [
+            "nature",
+            "plant",
+            "coconuts",
+            "fronds",
+            "warm",
+            "tropical"
+        ],
+        "description": "palm tree",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f334"
+    },
+    "panda_face": {
+        "keywords": [
+            "animal",
+            "nature",
+            "bear",
+            "cub",
+            "cute",
+            "endearment",
+            "friendship",
+            "love",
+            "bamboo",
+            "china",
+            "black",
+            "white"
+        ],
+        "description": "panda face",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f43c"
+    },
+    "partly_sunny": {
+        "keywords": [
+            "nature",
+            "weather",
+            "partly",
+            "sunny"
+        ],
+        "description": "sun behind cloud",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "26c5"
+    },
+    "patient_bear": {
+        "keywords": [
+            "bear",
+            "patience",
+            "meme",
+            "wildlife",
+            "waiting",
+            "patient bear"
+        ],
+        "description": "Black bear sitting and relaxing at a picnic table",
+        "headline": "Patient Bear",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "peeking": {
+        "keywords": [
+            "peeking",
+            "secret",
+            "naughty"
+        ],
+        "description": "Smiling face with hand covering eyes, while fingers are parted to allow one eye to see through.",
+        "headline": "",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "penguin": {
+        "keywords": [
+            "animal",
+            "nature",
+            "bird"
+        ],
+        "description": "penguin",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f427"
+    },
+    "pensive": {
+        "keywords": [
+            "okay",
+            "sad",
+            "thoughtful",
+            "think",
+            "reflective",
+            "wistful",
+            "meditate",
+            "serious",
+            "dejected",
+            "person"
+        ],
+        "description": "pensive face",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f614"
+    },
+    "pig": {
+        "keywords": [
+            "animal",
+            "nature",
+            "piggy",
+            "pork",
+            "ham",
+            "hog",
+            "bacon",
+            "oink",
+            "slop",
+            "livestock",
+            "greed",
+            "greedy",
+            "oink"
+        ],
+        "description": "pig face",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f437"
+    },
+    "pig2": {
+        "keywords": [
+            "animal",
+            "nature",
+            "piggy",
+            "pork",
+            "ham",
+            "hog",
+            "bacon",
+            "oink",
+            "slop",
+            "livestock",
+            "greed",
+            "greedy",
+            "oink",
+            "sow"
+        ],
+        "description": "pig",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f416"
+    },
+    "pig_nose": {
+        "keywords": [
+            "animal",
+            "oink",
+            "snout",
+            "eat",
+            "cute",
+            "pink",
+            "smell",
+            "truffle",
+            "face",
+            "nature"
+        ],
+        "description": "pig nose",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f43d"
+    },
+    "pinkies_out": {
+        "keywords": [
+            "pinky",
+            "snob",
+            "sophisticated",
+            "fancy",
+            "hand",
+            "coffee",
+            "tea",
+            "tea time"
+        ],
+        "description": "Hand with pinkie facing prominently outward, holding a cup of dark tea or coffee",
+        "headline": "Pinky Out",
+        "apps": [{
+            "name": "location",
+            "query": "coffee and tea",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "pirate": {
+        "keywords": [
+            "pirate",
+            "looting",
+            "plundering",
+            "booty",
+            "criminal",
+            "thief",
+            "sailing",
+            "ocean",
+            "sea"
+        ],
+        "description": "Portrait of a pirate with eyepatch and hat featuring a Jolly Roger emblem",
+        "headline": "",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "pizza": {
+        "keywords": [
+            "food",
+            "party",
+            "pie",
+            "new york",
+            "italian",
+            "italy",
+            "pepperoni",
+            "nature",
+            "object",
+            "restaurant"
+        ],
+        "description": "slice of pizza",
+        "headline": "",
+        "apps": [{
+            "name": "location",
+            "query": "pizza restaurant",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f355"
+    },
+    "point_down": {
+        "keywords": [
+            "direction",
+            "finger",
+            "hand",
+            "body",
+            "person",
+            "point"
+        ],
+        "description": "white down pointing backhand index",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f447"
+    },
+    "point_left": {
+        "keywords": [
+            "direction",
+            "finger",
+            "hand",
+            "body",
+            "person",
+            "point"
+        ],
+        "description": "white left pointing backhand index",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f448"
+    },
+    "point_right": {
+        "keywords": [
+            "direction",
+            "finger",
+            "hand",
+            "body",
+            "person",
+            "point"
+        ],
+        "description": "white right pointing backhand index",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f449"
+    },
+    "point_up": {
+        "keywords": [
+            "direction",
+            "finger",
+            "hand",
+            "one",
+            "body",
+            "person",
+            "point"
+        ],
+        "description": "white up pointing index",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "261d"
+    },
+    "point_up_2": {
+        "keywords": [
+            "direction",
+            "finger",
+            "hand",
+            "one",
+            "body",
+            "person",
+            "point"
+        ],
+        "description": "white up pointing backhand index",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f446"
+    },
+    "pokeball": {
+        "keywords": [
+            "pokemon",
+            "gaming",
+            "games",
+            "pikachu",
+            "nintendo"
+        ],
+        "description": "Red and white ball used to catch PokÃ©mon",
+        "headline": "",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "poodle": {
+        "keywords": [
+            "101",
+            "animal",
+            "dog",
+            "nature",
+            "showy",
+            "sophisticated",
+            "vain"
+        ],
+        "description": "poodle",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f429"
+    },
+    "poop": {
+        "keywords": [
+            "poop",
+            "shit",
+            "shitface",
+            "turd",
+            "comic",
+            "dung",
+            "face",
+            "monster",
+            "nature",
+            "object"
+        ],
+        "description": "pile of poo",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f4a9"
+    },
+    "pot_of_gold": {
+        "keywords": [
+            "pot",
+            "gold",
+            "coins",
+            "gold coins",
+            "shamrock",
+            "march",
+            "irish",
+            "money",
+            "treasure",
+            "leprechaun",
+            "march",
+            "patty",
+            "paddy"
+        ],
+        "description": "Grey pot of gold embellished with shamrock and filled with gold coins",
+        "headline": "Pot of Gold",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "poultry_leg": {
+        "keywords": [
+            "food",
+            "meat",
+            "chicken",
+            "fried",
+            "bone",
+            "nature",
+            "object",
+            "restaurant"
+        ],
+        "description": "poultry leg",
+        "headline": "",
+        "apps": [{
+            "name": "location",
+            "query": "chicken restaurant",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f357"
+    },
+    "pouting_cat": {
+        "keywords": [
+            "animal",
+            "cats",
+            "pout",
+            "annoyed",
+            "miffed",
+            "glower",
+            "frown",
+            "nature"
+        ],
+        "description": "pouting cat face",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f63e"
+    },
+    "pray": {
+        "keywords": [
+            "highfive",
+            "hope",
+            "namaste",
+            "please",
+            "wish",
+            "pray",
+            "high five",
+            "sorrow",
+            "regret",
+            "sorry",
+            "ask",
+            "body",
+            "bow",
+            "gesture",
+            "hand",
+            "thanks"
+        ],
+        "description": "person with folded hands",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f64f"
+    },
+    "punch": {
+        "keywords": [
+            "fist",
+            "punch",
+            "body",
+            "clenched",
+            "person"
+        ],
+        "description": "fisted hand sign",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f44a"
+    },
+    "purse": {
+        "keywords": [
+            "accessories",
+            "fashion",
+            "money",
+            "clutch",
+            "bag",
+            "handbag",
+            "coin bag",
+            "accessory",
+            "ladies",
+            "shopping",
+            "clothing",
+            "coin",
+            "object",
+            "person"
+        ],
+        "description": "purse",
+        "headline": "Purse",
+        "apps": [{
+            "name": "location",
+            "query": "womens purse",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f45b"
+    },
+    "rabbit": {
+        "keywords": [
+            "animal",
+            "nature",
+            "bunny",
+            "easter",
+            "reproduction",
+            "prolific",
+            "pet"
+        ],
+        "description": "rabbit face",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f430"
+    },
+    "rabbit2": {
+        "keywords": [
+            "animal",
+            "nature",
+            "bunny",
+            "easter",
+            "reproduction",
+            "prolific",
+            "pet"
+        ],
+        "description": "rabbit",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f407"
+    },
+    "race_car": {
+        "keywords": [
+            "formula 1",
+            "race",
+            "stock",
+            "nascar",
+            "speed",
+            "drive",
+            "place",
+            "sport",
+            "travel"
+        ],
+        "description": "racing car",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f3ce"
+    },
+    "racehorse": {
+        "keywords": [
+            "animal",
+            "gamble",
+            "powerful",
+            "draft",
+            "calvary",
+            "cowboy",
+            "cowgirl",
+            "mounted",
+            "race",
+            "ride",
+            "gallop",
+            "trot",
+            "colt",
+            "filly",
+            "mare",
+            "stallion",
+            "gelding",
+            "yearling",
+            "thoroughbred",
+            "pony",
+            "nature",
+            "place",
+            "racehorse",
+            "racing"
+        ],
+        "description": "horse",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f40e"
+    },
+    "rainbow": {
+        "keywords": [
+            "happy",
+            "nature",
+            "sky",
+            "unicorn",
+            "color",
+            "pride",
+            "diversity",
+            "spectrum",
+            "refract",
+            "leprechaun",
+            "gold",
+            "rain",
+            "weather"
+        ],
+        "description": "rainbow",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f308"
+    },
+    "ramen": {
+        "keywords": [
+            "chopsticks",
+            "food",
+            "japanese",
+            "noodle",
+            "ramen",
+            "noodles",
+            "soup",
+            "nature",
+            "object",
+            "restaurant"
+        ],
+        "description": "steaming bowl",
+        "headline": "",
+        "apps": [{
+            "name": "location",
+            "query": "thai OR vietnamese OR ramen restaurant",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f35c"
+    },
+    "rat": {
+        "keywords": [
+            "animal",
+            "mouse",
+            "rodent",
+            "crooked",
+            "snitch",
+            "nature"
+        ],
+        "description": "rat",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f400"
+    },
+    "redhead": {
+        "keywords": [
+            "redhead",
+            "red",
+            "hair"
+        ],
+        "description": "Lady with red hair",
+        "headline": "",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "relaxed": {
+        "keywords": [
+            "blush",
+            "happiness",
+            "massage",
+            "smile",
+            "relaxed",
+            "outlined",
+            "person"
+        ],
+        "description": "white smiling face",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "263a"
+    },
+    "republican": {
+        "keywords": [
+            "republican",
+            "gop",
+            "politics",
+            "conservative",
+            "elephant"
+        ],
+        "description": "republican party elephant logo red white blue",
+        "headline": "Republican Party",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "rice_scene": {
+        "keywords": [
+            "observing",
+            "otsukimi",
+            "tsukimi",
+            "rice",
+            "scene",
+            "festival",
+            "autumn",
+            "activity",
+            "celebration",
+            "entertainment",
+            "nature",
+            "object"
+        ],
+        "description": "moon viewing ceremony",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f391"
+    },
+    "robot": {
+        "keywords": [
+            "machine",
+            "rosie",
+            "jetsons",
+            "aliens",
+            "helpful",
+            "fun"
+        ],
+        "description": "robot head",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f916"
+    },
+    "rooster": {
+        "keywords": [
+            "animal",
+            "chicken",
+            "nature",
+            "cockerel",
+            "cock",
+            "male",
+            "cock-a-doodle-doo",
+            "crowing"
+        ],
+        "description": "rooster",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f413"
+    },
+    "rose": {
+        "keywords": [
+            "love",
+            "valentines",
+            "fragrant",
+            "flower",
+            "thorns",
+            "petals",
+            "romance",
+            "nature",
+            "plant"
+        ],
+        "description": "rose",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f339"
+    },
+    "rosette": {
+        "keywords": [
+            "flower",
+            "nature",
+            "plant"
+        ],
+        "description": "rosette",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f3f5"
+    },
+    "rugby_football": {
+        "keywords": [
+            "sports",
+            "rugby",
+            "football",
+            "ball",
+            "sport",
+            "team",
+            "england",
+            "object",
+            "place"
+        ],
+        "description": "rugby football",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f3c9"
+    },
+    "sad_panda": {
+        "keywords": [
+            "sad",
+            "panda",
+            "depressed",
+            "lonesome",
+            "downcast"
+        ],
+        "description": "Panda looking down at ground with sad expression",
+        "headline": "Sad Panda",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "sake": {
+        "keywords": [
+            "beverage",
+            "drink",
+            "drunk",
+            "wine",
+            "rice",
+            "ferment",
+            "alcohol",
+            "japanese",
+            "bar",
+            "nature",
+            "object",
+            "restaurant"
+        ],
+        "description": "sake bottle and cup",
+        "headline": "",
+        "apps": [{
+            "name": "location",
+            "query": "sake bar",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f376"
+    },
+    "salad_emojione": {
+        "keywords": [
+            "salad",
+            "healthy",
+            "vegan",
+            "vegetarian",
+            "fresh",
+            "green",
+            "vegetable"
+        ],
+        "description": "Green salad in a bowl.",
+        "headline": "Vegan",
+        "apps": [{
+            "name": "location",
+            "query": "vegan and restaurant",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f957"
+    },
+    "scream": {
+        "keywords": [
+            "munch",
+            "scream",
+            "painting",
+            "artist",
+            "alien",
+            "fearful",
+            "person",
+            "scared"
+        ],
+        "description": "face screaming in fear",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f631"
+    },
+    "scream_cat": {
+        "keywords": [
+            "animal",
+            "cats",
+            "munch",
+            "sleepy",
+            "tired",
+            "tiredness",
+            "study",
+            "finals",
+            "school",
+            "exhausted",
+            "scream",
+            "painting",
+            "artist",
+            "nature",
+            "oh",
+            "surprised"
+        ],
+        "description": "weary cat face",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f640"
+    },
+    "see_no_evil": {
+        "keywords": [
+            "animal",
+            "nature",
+            "monkey",
+            "see",
+            "eyes",
+            "vision",
+            "sight",
+            "mizaru",
+            "evil",
+            "face",
+            "forbidden",
+            "gesture",
+            "no",
+            "not",
+            "prohibited"
+        ],
+        "description": "see-no-evil monkey",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f648"
+    },
+    "seedling": {
+        "keywords": [
+            "grass",
+            "lawn",
+            "nature",
+            "plant",
+            "new",
+            "start",
+            "grow",
+            "young"
+        ],
+        "description": "seedling",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f331"
+    },
+    "shamrock": {
+        "keywords": [
+            "nature",
+            "plant"
+        ],
+        "description": "shamrock",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "2618"
+    },
+    "sheep": {
+        "keywords": [
+            "animal",
+            "nature",
+            "wool",
+            "flock",
+            "follower",
+            "ewe",
+            "female",
+            "lamb"
+        ],
+        "description": "sheep",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f411"
+    },
+    "shell": {
+        "keywords": [
+            "beach",
+            "nature",
+            "sea",
+            "beach",
+            "sand",
+            "crab",
+            "nautilus",
+            "animal"
+        ],
+        "description": "spiral shell",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f41a"
+    },
+    "shopping_bags": {
+        "keywords": [
+            "purchase",
+            "mall",
+            "buy",
+            "store",
+            "shop",
+            "bag",
+            "hotel",
+            "object"
+        ],
+        "description": "shopping bags",
+        "headline": "Shopping Bags",
+        "apps": [{
+            "name": "location",
+            "query": "shopping mall",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f6cd"
+    },
+    "ski": {
+        "keywords": [
+            "cold",
+            "sport",
+            "winter",
+            "downhill",
+            "cross-country",
+            "poles",
+            "snow",
+            "mountain",
+            "alpine",
+            "powder",
+            "slalom",
+            "freestyle",
+            "object"
+        ],
+        "description": "ski and ski boot",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f3bf"
+    },
+    "skier": {
+        "keywords": [
+            "person",
+            "ski",
+            "snow",
+            "sport",
+            "travel"
+        ],
+        "description": "skier",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "26f7"
+    },
+    "sloth": {
+        "keywords": [
+            "animal",
+            "sloth",
+            "slow",
+            "cute",
+            "creepy",
+            "lethargic"
+        ],
+        "description": "sloth on a branch",
+        "headline": "Sloth",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "smile_cat": {
+        "keywords": [
+            "animal",
+            "cats",
+            "smile",
+            "grin",
+            "eye",
+            "nature"
+        ],
+        "description": "grinning cat face with smiling eyes",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f638"
+    },
+    "smiley": {
+        "keywords": [
+            "haha",
+            "happy",
+            "joy",
+            "smile",
+            "smiley",
+            "person"
+        ],
+        "description": "smiling face with open mouth",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f603"
+    },
+    "smiley_cat": {
+        "keywords": [
+            "animal",
+            "cats",
+            "happy",
+            "smile",
+            "smiley",
+            "nature"
+        ],
+        "description": "smiling cat face with open mouth",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f63a"
+    },
+    "smirk_cat": {
+        "keywords": [
+            "animal",
+            "cats",
+            "smirk",
+            "smirking",
+            "confident",
+            "confidence",
+            "ironic",
+            "nature"
+        ],
+        "description": "cat face with wry smile",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f63c"
+    },
+    "snail": {
+        "keywords": [
+            "animal",
+            "shell",
+            "slow",
+            "slow",
+            "escargot",
+            "french",
+            "appetizer",
+            "nature"
+        ],
+        "description": "snail",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f40c"
+    },
+    "snake": {
+        "keywords": [
+            "animal",
+            "evil",
+            "bearer",
+            "nature",
+            "ophiuchus",
+            "serpent",
+            "zodiac"
+        ],
+        "description": "snake",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f40d"
+    },
+    "snowboarder": {
+        "keywords": [
+            "sport",
+            "winter",
+            "snow",
+            "boarding",
+            "freestyle",
+            "halfpipe",
+            "board",
+            "mountain",
+            "alpine",
+            "person",
+            "ski",
+            "snowboard"
+        ],
+        "description": "snowboarder",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f3c2"
+    },
+    "snowflake": {
+        "keywords": [
+            "christmas",
+            "season",
+            "weather",
+            "winter",
+            "xmas",
+            "snow",
+            "frozen",
+            "droplet",
+            "ice",
+            "crystal",
+            "cold",
+            "chilly",
+            "unique",
+            "special",
+            "below zero",
+            "elsa",
+            "nature"
+        ],
+        "description": "snowflake",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "2744"
+    },
+    "snowman": {
+        "keywords": [
+            "christmas",
+            "cold",
+            "season",
+            "weather",
+            "winter",
+            "xmas",
+            "nature"
+        ],
+        "description": "snowman without snow",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "26c4"
+    },
+    "sob": {
+        "keywords": [
+            "cry",
+            "sad",
+            "tears",
+            "upset",
+            "sob",
+            "melancholy",
+            "morn",
+            "somber",
+            "hurt",
+            "person",
+            "tear"
+        ],
+        "description": "loudly crying face",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f62d"
+    },
+    "soccer": {
+        "keywords": [
+            "sport",
+            "fifa",
+            "football",
+            "european",
+            "object",
+            "place"
+        ],
+        "description": "soccer ball",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "26bd"
+    },
+    "spaghetti": {
+        "keywords": [
+            "food",
+            "italian",
+            "noodle",
+            "noodles",
+            "tomato",
+            "sauce",
+            "nature",
+            "object",
+            "pasta",
+            "restaurant"
+        ],
+        "description": "spaghetti",
+        "headline": "",
+        "apps": [{
+            "name": "location",
+            "query": "spaghetti OR Italian restaurant",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f35d"
+    },
+    "speak_no_evil": {
+        "keywords": [
+            "animal",
+            "mouth",
+            "talk",
+            "say",
+            "words",
+            "verbal",
+            "verbalize",
+            "oral",
+            "iwazaru",
+            "evil",
+            "face",
+            "forbidden",
+            "gesture",
+            "nature",
+            "no",
+            "not",
+            "prohibited",
+            "speak"
+        ],
+        "description": "speak-no-evil monkey",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f64a"
+    },
+    "spider": {
+        "keywords": [
+            "arachnid",
+            "eight-legged",
+            "animal",
+            "insect",
+            "object"
+        ],
+        "description": "spider",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f577"
+    },
+    "spider_web": {
+        "keywords": [
+            "cobweb",
+            "animal",
+            "object"
+        ],
+        "description": "spider web",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f578"
+    },
+    "sprint": {
+        "keywords": [
+            "sprint",
+            "wireless",
+            "mobile",
+            "network",
+            "data"
+        ],
+        "description": "sprint company logo",
+        "headline": "",
+        "apps": [{
+            "name": "location",
+            "query": "sprint",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "spy": {
+        "keywords": [
+            "spy",
+            "hat",
+            "sleuth",
+            "inspector",
+            "mustache"
+        ],
+        "description": "Spy with spyglass and hat",
+        "headline": "Spy",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f575"
+    },
+    "stadium": {
+        "keywords": [
+            "sport",
+            "event",
+            "concert",
+            "convention",
+            "game",
+            "place"
+        ],
+        "description": "stadium",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f3df"
+    },
+    "star": {
+        "keywords": [
+            "night",
+            "yellow",
+            "nature",
+            "place"
+        ],
+        "description": "white medium star",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "2b50"
+    },
+    "stars": {
+        "keywords": [
+            "night",
+            "shoot",
+            "sky",
+            "comet",
+            "meteoroid",
+            "activity",
+            "falling",
+            "nature",
+            "place",
+            "space"
+        ],
+        "description": "shooting star",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f320"
+    },
+    "stevie_wonder": {
+        "keywords": [
+            "stevie",
+            "wonder",
+            "american",
+            "music",
+            "cornrows",
+            "sunglasses",
+            "musician",
+            "singer",
+            "songwriter",
+            "pianist"
+        ],
+        "description": "Musician Stevie Wonder wearing cornrows and sunglasses",
+        "headline": "Stevie Wonder",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "stuck_out_tongue_winking_eye": {
+        "keywords": [
+            "childish",
+            "mischievous",
+            "playful",
+            "prank",
+            "wink",
+            "kidding",
+            "silly",
+            "playful",
+            "crazy",
+            "joke",
+            "person"
+        ],
+        "description": "face with stuck-out tongue and winking eye",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f61c"
+    },
+    "sun_with_face": {
+        "keywords": [
+            "morning",
+            "anthropomorphic",
+            "sky",
+            "sunny",
+            "bright",
+            "nature",
+            "place",
+            "space",
+            "weather"
+        ],
+        "description": "sun with face",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f31e"
+    },
+    "sunflower": {
+        "keywords": [
+            "nature",
+            "plant",
+            "sun",
+            "flower",
+            "seeds",
+            "yellow"
+        ],
+        "description": "sunflower",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f33b"
+    },
+    "sunglasses": {
+        "keywords": [
+            "cool",
+            "sun",
+            "glasses",
+            "sunny",
+            "smooth",
+            "bright",
+            "eye",
+            "eyewear",
+            "person",
+            "smile",
+            "weather"
+        ],
+        "description": "smiling face with sunglasses",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f60e"
+    },
+    "sunny": {
+        "keywords": [
+            "brightness",
+            "weather",
+            "sunny",
+            "bright",
+            "nature",
+            "space"
+        ],
+        "description": "black sun with rays",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "2600"
+    },
+    "sunrise": {
+        "keywords": [
+            "morning",
+            "vacation",
+            "view",
+            "sun",
+            "morning",
+            "color",
+            "sky",
+            "nature",
+            "place",
+            "time",
+            "weather"
+        ],
+        "description": "sunrise",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f305"
+    },
+    "sunrise_over_mountains": {
+        "keywords": [
+            "vacation",
+            "view",
+            "sun",
+            "morning",
+            "rural",
+            "color",
+            "sky",
+            "mountain",
+            "nature",
+            "place",
+            "time",
+            "weather"
+        ],
+        "description": "sunrise over mountains",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f304"
+    },
+    "surfer": {
+        "keywords": [
+            "ocean",
+            "sea",
+            "sport",
+            "surf",
+            "wave",
+            "ocean",
+            "ride",
+            "swell",
+            "person",
+            "surfing"
+        ],
+        "description": "surfer",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f3c4"
+    },
+    "sushi": {
+        "keywords": [
+            "food",
+            "japanese",
+            "fish",
+            "raw",
+            "nigiri",
+            "nature",
+            "object",
+            "restaurant"
+        ],
+        "description": "sushi",
+        "headline": "",
+        "apps": [{
+            "name": "location",
+            "query": "sushi restaurant",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f363"
+    },
+    "swearing": {
+        "keywords": [
+            "censorship",
+            "swearing",
+            "profanity",
+            "insult",
+            "angry",
+            "frustrated"
+        ],
+        "description": "angry cartoon face with mouth censored by a black box and asterisk characters",
+        "headline": "",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "sweetcow": {
+        "keywords": [
+            "food",
+            "dessert",
+            "ice cream",
+            "hungry",
+            "sweet",
+            "cow",
+            "celebrate"
+        ],
+        "description": "blue sweet cow face",
+        "headline": "Sweet Cow Ice Cream",
+        "apps": [{
+            "name": "location",
+            "query": "sweet cow ice cream",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "swimmer_tone2": {
+        "keywords": [
+            "sport",
+            "swim",
+            "water",
+            "pool",
+            "laps",
+            "freestyle",
+            "butterfly",
+            "breaststroke",
+            "backstroke"
+        ],
+        "description": "swimmer tone 2",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f3ca-1f3fc"
+    },
+    "taco": {
+        "keywords": [
+            "taco",
+            "latino",
+            "spicy",
+            "food"
+        ],
+        "description": "taco",
+        "headline": "",
+        "apps": [{
+            "name": "location",
+            "query": "mexican OR latin OR taco restaurant",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f32e"
+    },
+    "tea": {
+        "keywords": [
+            "bowl",
+            "breakfast",
+            "british",
+            "drink",
+            "green",
+            "tea",
+            "leaf",
+            "hot",
+            "beverage",
+            "cup",
+            "nature",
+            "object"
+        ],
+        "description": "teacup without handle",
+        "headline": "",
+        "apps": [{
+            "name": "location",
+            "query": "tea",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f375"
+    },
+    "tennis": {
+        "keywords": [
+            "ball",
+            "green",
+            "sport",
+            "racket",
+            "game",
+            "net",
+            "court",
+            "love",
+            "object",
+            "place"
+        ],
+        "description": "tennis racquet and ball",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f3be"
+    },
+    "thermometer": {
+        "keywords": [
+            "temperature",
+            "nature",
+            "weather"
+        ],
+        "description": "thermometer",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f321"
+    },
+    "thumbsdown": {
+        "keywords": [
+            "hand",
+            "no",
+            "-1",
+            "body",
+            "person",
+            "thumb",
+            "thumbs down"
+        ],
+        "description": "thumbs down sign",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f44e"
+    },
+    "thumbsup": {
+        "keywords": [
+            "cool",
+            "hand",
+            "like",
+            "yes",
+            "+1",
+            "body",
+            "person",
+            "thumb",
+            "thumbs up"
+        ],
+        "description": "thumbs up sign",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f44d"
+    },
+    "thunder_cloud_rain": {
+        "keywords": [
+            "nature",
+            "weather"
+        ],
+        "description": "thunder cloud and rain",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "26c8"
+    },
+    "tickets": {
+        "keywords": [
+            "concert",
+            "event",
+            "pass",
+            "show",
+            "entertainment",
+            "stub",
+            "proof",
+            "purchase",
+            "object",
+            "ticket"
+        ],
+        "description": "admission tickets",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f39f"
+    },
+    "tiger": {
+        "keywords": [
+            "animal",
+            "nature",
+            "cat",
+            "striped",
+            "tony",
+            "tigger",
+            "hobs"
+        ],
+        "description": "tiger face",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f42f"
+    },
+    "tiger2": {
+        "keywords": [
+            "animal",
+            "nature",
+            "cat",
+            "striped",
+            "tony",
+            "tigger",
+            "hobs"
+        ],
+        "description": "tiger",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f405"
+    },
+    "trophy": {
+        "keywords": [
+            "award",
+            "ceremony",
+            "contest",
+            "ftw",
+            "place",
+            "win",
+            "first",
+            "show",
+            "reward",
+            "achievement",
+            "medal",
+            "object",
+            "prize",
+            "sport"
+        ],
+        "description": "trophy",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f3c6"
+    },
+    "tropical_fish": {
+        "keywords": [
+            "animal",
+            "nature"
+        ],
+        "description": "tropical fish",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f420"
+    },
+    "tulip": {
+        "keywords": [
+            "nature",
+            "plant",
+            "flower",
+            "bulb",
+            "spring",
+            "easter"
+        ],
+        "description": "tulip",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f337"
+    },
+    "turtle": {
+        "keywords": [
+            "animal",
+            "slow",
+            "shell",
+            "tortoise",
+            "chelonian",
+            "reptile",
+            "slow",
+            "snap",
+            "steady",
+            "nature"
+        ],
+        "description": "turtle",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f422"
+    },
+    "two_hearts": {
+        "keywords": [
+            "affection",
+            "like",
+            "love",
+            "valentines",
+            "emotion",
+            "heart",
+            "person"
+        ],
+        "description": "two hearts",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f495"
+    },
+    "umbrella": {
+        "keywords": [
+            "rain",
+            "weather",
+            "clothing",
+            "drop",
+            "nature"
+        ],
+        "description": "umbrella with rain drops",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "2614"
+    },
+    "unamused": {
+        "keywords": [
+            "bored",
+            "indifference",
+            "serious",
+            "straight face",
+            "not amused",
+            "depressed",
+            "unhappy",
+            "disapprove",
+            "lame",
+            "person"
+        ],
+        "description": "unamused face",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f612"
+    },
+    "v": {
+        "keywords": [
+            "fingers",
+            "ohyeah",
+            "peace",
+            "two",
+            "v",
+            "body",
+            "person"
+        ],
+        "description": "victory hand",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "270c"
+    },
+    "volcano": {
+        "keywords": [
+            "nature",
+            "volcano",
+            "lava",
+            "magma",
+            "hot",
+            "explode",
+            "eruption",
+            "mountain",
+            "place",
+            "weather"
+        ],
+        "description": "volcano",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f30b"
+    },
+    "vulcan": {
+        "keywords": [
+            "vulcan",
+            "spock",
+            "leonard",
+            "nimoy",
+            "star trek",
+            "live long",
+            "body",
+            "finger",
+            "person"
+        ],
+        "description": "raised hand with part between middle and ring fingers",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f596"
+    },
+    "waiting": {
+        "keywords": [
+            "waiting",
+            "patient",
+            "impatient",
+            "clock",
+            "time",
+            "forever"
+        ],
+        "description": "Cartoon face looking with concern at clock",
+        "headline": "",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "walk_like_an_egyptian": {
+        "keywords": [
+            "egyptian",
+            "dance",
+            "heiroglyph",
+            "man"
+        ],
+        "description": "Egyptian heiroglyphic figure of a man in profile walking with arms pointing to the side",
+        "headline": "",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "waning_crescent_moon": {
+        "keywords": [
+            "nature",
+            "sky",
+            "night",
+            "cheese",
+            "phase",
+            "place",
+            "space",
+            "time",
+            "weather"
+        ],
+        "description": "waning crescent moon symbol",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f318"
+    },
+    "water_buffalo": {
+        "keywords": [
+            "animal",
+            "cow",
+            "nature",
+            "ox",
+            "asia",
+            "bovine"
+        ],
+        "description": "water buffalo",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f403"
+    },
+    "waxing_gibbous_moon": {
+        "keywords": [
+            "nature",
+            "sky",
+            "night",
+            "cheese",
+            "phase",
+            "place",
+            "space",
+            "time",
+            "weather"
+        ],
+        "description": "waxing gibbous moon symbol",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f314"
+    },
+    "weary": {
+        "keywords": [
+            "frustrated",
+            "sad",
+            "sleepy",
+            "tired",
+            "tiredness",
+            "study",
+            "finals",
+            "school",
+            "exhausted",
+            "person"
+        ],
+        "description": "weary face",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f629"
+    },
+    "whale": {
+        "keywords": [
+            "animal",
+            "nature",
+            "ocean",
+            "sea",
+            "face"
+        ],
+        "description": "spouting whale",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f433"
+    },
+    "whale2": {
+        "keywords": [
+            "animal",
+            "nature",
+            "ocean",
+            "sea",
+            "blubber",
+            "bloated",
+            "fat",
+            "large",
+            "massive"
+        ],
+        "description": "whale",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f40b"
+    },
+    "white_sun_rain_cloud": {
+        "keywords": [
+            "nature",
+            "weather"
+        ],
+        "description": "white sun behind cloud with rain",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f326"
+    },
+    "wind_blowing_face": {
+        "keywords": [
+            "mother",
+            "nature",
+            "blow",
+            "cloud",
+            "weather"
+        ],
+        "description": "wind blowing face",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f32c"
+    },
+    "wine_glass": {
+        "keywords": [
+            "alcohol",
+            "beverage",
+            "booze",
+            "bottle",
+            "drink",
+            "drunk",
+            "fermented",
+            "grapes",
+            "tasting",
+            "winery",
+            "bar",
+            "nature",
+            "object",
+            "restaurant"
+        ],
+        "description": "wine glass",
+        "headline": "Wine",
+        "apps": [{
+            "name": "location",
+            "query": "wine and restaurant",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f377"
+    },
+    "wink": {
+        "keywords": [
+            "happy",
+            "mischievous",
+            "secret",
+            "wink",
+            "friendly",
+            "joke",
+            "person"
+        ],
+        "description": "winking face",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f609"
+    },
+    "wolf": {
+        "keywords": [
+            "animal",
+            "nature"
+        ],
+        "description": "wolf face",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f43a"
+    },
+    "womans_clothes": {
+        "keywords": [
+            "fashion",
+            "clothing",
+            "blouse",
+            "shirt",
+            "wardrobe",
+            "breasts",
+            "cleavage",
+            "shopping",
+            "shop",
+            "dressing",
+            "dressed",
+            "object",
+            "person",
+            "woman"
+        ],
+        "description": "womans clothes",
+        "headline": "Womens Shirt",
+        "apps": [{
+            "name": "location",
+            "query": "womens clothes",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f45a"
+    },
+    "y_u_know_guy": {
+        "keywords": [
+            "meme",
+            "guy",
+            "why",
+            "what",
+            "how",
+            "popular"
+        ],
+        "description": "Y U NO guy meme with hands out in exasperation",
+        "headline": "Y U NO Guy",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "yum": {
+        "keywords": [
+            "happy",
+            "joy",
+            "smile",
+            "tongue",
+            "eat",
+            "yummy",
+            "yum",
+            "tasty",
+            "savory",
+            "person",
+            "um"
+        ],
+        "description": "face savouring delicious food",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f60b"
+    },
+    "zap": {
+        "keywords": [
+            "lightning bolt",
+            "thunder",
+            "weather",
+            "zap",
+            "danger",
+            "electric",
+            "electricity",
+            "lightning",
+            "nature",
+            "symbol"
+        ],
+        "description": "high voltage sign",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "26a1"
+    },
+    "emojicon": {
+        "keywords": [
+            "emojicon",
+            "conference",
+            "emojis",
+            "stickers",
+            "san francisco"
+        ],
+        "description": "emojicon logo 2016",
+        "headline": "Emojicon",
+        "apps": [{
+            "name": "location",
+            "query": "865 Market St, San Francisco, CA 94103",
+            "icon": "map_icon",
+            "title": "Maps"
+        }]
+    },
+    "dancers": {
+        "keywords": [
+            "female",
+            "girls",
+            "women",
+            "dancing",
+            "dancers",
+            "showgirl",
+            "playboy",
+            "costume",
+            "cancan",
+            "dancer",
+            "ear",
+            "girl",
+            "person"
+        ],
+        "description": "woman with bunny ears",
+        "headline": "",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f46f"
+    },
+    "woman_headscarf": {
+        "keywords": [
+            "woman",
+            "lady",
+            "headscarf",
+            "worldly",
+            "religion",
+            "muslim",
+            "hijab",
+            "female",
+            "islam",
+            "mosque"
+        ],
+        "description": "woman in headscarf",
+        "headline": "Woman in Headscarf",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "preview_blue": {
+        "keywords": [
+            "earth",
+            "pupil",
+            "eye",
+            "magnifying glass",
+            "blue"
+        ],
+        "description": "blue eyeball with magnifying glass and earth for pupil",
+        "headline": "Preview Emoji",
+        "apps": [{
+            "name": "secret"
+        }]
+    },
+    "dinosaur_full_body": {
+        "keywords": [
+            "green",
+            "dinosaur",
+            "SAUROPODA",
+            "big",
+            "gigantic",
+            "extinct",
+            "old",
+            "neck",
+            "tail"
+        ],
+        "description": "green dinosaur full body",
+        "headline": "Dinosaur",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "mermaid": {
+        "keywords": [
+            "mermaid",
+            "female",
+            "girl",
+            "sea",
+            "ocean",
+            "fish"
+        ],
+        "description": "mermaid emoji",
+        "headline": "Mermaid Emoji",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "yoga_woman_sitting": {
+        "keywords": [
+            "yoga",
+            "woman",
+            "sitting",
+            "lotus",
+            "redhead",
+            "silence",
+            "serene",
+            "calm",
+            "meditate",
+            "om"
+        ],
+        "description": "redhead woman sitting in yoga pose",
+        "headline": "Woman Sitting in a Yoga Pose",
+        "apps": [{
+            "name": "location",
+            "query": "yoga",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "condom": {
+        "keywords": [
+            "blue",
+            "condom",
+            "sex",
+            "safe",
+            "horny",
+            "kids"
+        ],
+        "description": "blue condom",
+        "headline": "Condom",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "chopsticks": {
+        "keywords": [
+            "asian",
+            "food",
+            "chopsticks",
+            "meal"
+        ],
+        "description": "red and black chopsticks",
+        "headline": "Chopsticks",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "breastfeeding": {
+        "keywords": [
+            "breast",
+            "feeding",
+            "baby",
+            "exposed",
+            "infant",
+            ""
+        ],
+        "description": "woman breastfeeding an infant thru open purple open shirt",
+        "headline": "Breastfeeding",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "dumpling": {
+        "keywords": [
+            "dumpling",
+            "asian",
+            "food",
+            ""
+        ],
+        "description": "beige dumpling",
+        "headline": "Dumpling Emoji",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "timberland": {
+        "keywords": [
+            "timberland",
+            "clothes",
+            ""
+        ],
+        "description": "timberland logo",
+        "headline": "Timberland",
+        "apps": [{
+            "name": "location",
+            "query": "Timberland and Store",
+            "icon": "map_icon",
+            "title": "Maps"
+        }]
+    },
+    "almond": {
+        "keywords": [
+            "almond",
+            "nut",
+            "healthy",
+            "brown",
+            "crunchy"
+        ],
+        "description": "almond sitting at 45 degree angle",
+        "headline": "Almond",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "beard": {
+        "keywords": [
+            "beard",
+            "man"
+        ],
+        "description": "man with dark brown beard",
+        "headline": "Beard Emoji",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "chinese_take_out_box": {
+        "keywords": [
+            "chinese",
+            "takeout",
+            "chopsticks",
+            "white box",
+            "asian",
+            "food"
+        ],
+        "description": "white chinese takeout box with red chopsticks",
+        "headline": "Chinese Takeout Box",
+        "apps": [{
+            "name": "location",
+            "query": "chinese and food",
+            "icon": "map_icon",
+            "title": "Maps"
+        }, {
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "coconut": {
+        "keywords": [
+            "coconut",
+            "palm",
+            "nut",
+            "tree",
+            "tropical",
+            "drink"
+        ],
+        "description": "coconut with a palm leaf",
+        "headline": "Coconut Emoji",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "dancer": {
+        "keywords": [
+            "female",
+            "fun",
+            "girl",
+            "woman",
+            "dress",
+            "fancy",
+            "boogy",
+            "party",
+            "celebrate",
+            "ballet",
+            "tango",
+            "cha cha",
+            "music",
+            "person"
+        ],
+        "description": "dancer",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }],
+        "unicode": "1f483"
+    },
+    "flying_saucer": {
+        "keywords": [
+            "grey",
+            "vechicle",
+            "flying",
+            "object",
+            "ufo",
+            "saucer",
+            "aliens"
+        ],
+        "description": "grey flying saucer or ufo",
+        "headline": "Flying Saucer",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "fortune_cookie": {
+        "keywords": [
+            "fortune cookie",
+            "chinese",
+            "asian",
+            "food",
+            "dessert"
+        ],
+        "description": "fortune cookie with fortune",
+        "headline": "Fortune Cookie",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "orange_heart": {
+        "keywords": [
+            "orange",
+            "heart"
+        ],
+        "description": "orange heart",
+        "headline": "Orange Heart",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "pie": {
+        "keywords": [
+            "pie",
+            "food",
+            "crust",
+            "homemade",
+            "apple",
+            "peach",
+            "cherry"
+        ],
+        "description": "pie",
+        "headline": "Pie Emoji",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "salt_shaker": {
+        "keywords": [
+            "salt",
+            "shaker",
+            "pouring"
+        ],
+        "description": "salt shaker dumping salt",
+        "headline": "Salt Shaker",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    },
+    "white_night_horse": {
+        "keywords": [
+            "white",
+            "horse",
+            "upside down",
+            "chess",
+            "fairy",
+            "games",
+            "puzzles"
+        ],
+        "description": "upside down white horse",
+        "headline": "White Nightrider",
+        "apps": [{
+            "name": "secret",
+            "icon": "camera_icon",
+            "title": "Secret Message"
+        }]
+    }
+}
