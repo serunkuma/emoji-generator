@@ -14,7 +14,7 @@ function search(data, keyword) {
     return wanted;
 }
 $("#inpt_search").on('change', function() {
-    $("div.cntr-innr img").remove();
+    $("div.cntr-innr img, div.cntr-innr p.not-found").remove();
     $.getJSON("search.json", function(result) {
         //console.log(search(result, $("#inpt_search").val()));
         var html = "";
@@ -25,7 +25,7 @@ $("#inpt_search").on('change', function() {
             }
             $("div.cntr-innr").append(html);
         } else {
-            $("div.cntr-innr").append("Keyword not found, try another");
+            $("div.cntr-innr").append("<p class='not-found'> Keyword not found, try another</p>");
         }
 
     });
