@@ -21,7 +21,7 @@ $("#inpt_search").on('change', function() {
         var emojis = search(result, $("#inpt_search").val());
         if (emojis.length > 0) {
             for (var image in emojis) {
-                html += "<img src='http://grimacing.karmies.com/emojis/" + emojis[image] + ".png'/>";
+                html += "<img src='https://grimacing.karmies.com/emojis/" + emojis[image] + ".png'/>";
             }
             $("div.cntr-innr").append(html);
         } else {
