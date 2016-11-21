@@ -24,7 +24,7 @@ gulp.task('connect', function() {
         port: 3001,
         livereload: true
     });
-    conosole.log("To view app, use 'http://localhost:3001' in your browser");
+    console.log("To view app, use 'http://localhost:3001' in your browser");
 });
 
 gulp.task('watch', function() {

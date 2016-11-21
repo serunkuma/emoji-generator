@@ -1,7 +1,7 @@
 {
-    "name": "engage-together",
+    "name": "serunkuma-smile-generator",
     "scripts": {
-        "start": "node nodemodules/gulp/bin/gulp.js"
+        "start": "node ./node_modules/gulp/bin/gulp.js"
     },
     "devDependencies": {
         "gulp": "^3.9.1",
