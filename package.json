@@ -1,8 +1,11 @@
 {
-  "name": "engage-together",
-  "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-connect": "^5.0.0",
-    "gulp-sass": "^2.3.2"
-  }
+    "name": "engage-together",
+    "scripts": {
+        "start": "node nodemodules/gulp/bin/gulp.js"
+    },
+    "devDependencies": {
+        "gulp": "^3.9.1",
+        "gulp-connect": "^5.0.0",
+        "gulp-sass": "^2.3.2"
+    }
 }
